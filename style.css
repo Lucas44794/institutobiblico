@@ -83,6 +83,11 @@ footer {
         height: auto;
         padding: 20px;
     }
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+      }
 }
 .texto123 {
     font-size: 30px;
