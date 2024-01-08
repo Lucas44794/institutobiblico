@@ -65,6 +65,9 @@ footer {
     align-items: center;
     height: 50vh;
 }
+.h2login {
+    font-size: 30px;
+}
 #video {
     padding-top: 30px;
     display: flex;
