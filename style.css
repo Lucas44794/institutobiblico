@@ -82,7 +82,7 @@ footer {
     color: rgb(0, 0, 0);
     font-weight: bold;
     text-align: center;
-    -webkit-text-stroke-width: 0.4px;
+    -webkit-text-stroke-width: 0.2px;
     -webkit-text-stroke-color: rgb(213, 213, 213);
 }
 #contatoForm {
