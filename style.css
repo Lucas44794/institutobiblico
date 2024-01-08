@@ -68,6 +68,9 @@ footer {
 .h2login {
     font-size: 30px;
 }
+#loginForm input {
+    font-weight: 200;
+}
 #video {
     padding-top: 30px;
     display: flex;
