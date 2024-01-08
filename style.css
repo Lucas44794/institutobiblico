@@ -70,6 +70,7 @@ footer {
     align-items: center;
 }
 #contato {
+    font-size: 10px
     color: white;
     text-align: center;
     -webkit-text-stroke-width: 1px;
