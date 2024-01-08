@@ -72,6 +72,7 @@ footer {
 #contato {
     color: white;
     text-align: center;
+    -webkit-text-stroke-color: black;
 }
 
 /* Consulta de mídia para dispositivos com largura máxima de 600px */
