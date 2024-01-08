@@ -80,6 +80,9 @@ footer {
 #contatoForm {
     margin-top: 10px;
 }
+#mensagem {
+    width: 50%;
+}
 
 /* Consulta de mídia para dispositivos com largura máxima de 600px */
 @media only screen and (max-width: 600px) {
